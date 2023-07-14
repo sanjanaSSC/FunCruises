@@ -1,0 +1,138 @@
+.logo{
+  float: left;
+  margin-left: 120px;
+}
+
+.menu ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 110px;
+}
+.menu li{
+  list-style: none;
+  padding: 10px;
+}
+
+.main button{
+  padding: 10px;
+}
+.main{
+  margin-left: 120px;
+  margin-bottom: 80px;
+  display: flex;
+  flex-direction: row;
+}
+.main img{
+  width: 800px;
+  margin-left: 140px;
+}
+.text{
+  padding-top: 150px;
+  width: 500px;
+}
+.intro{
+  background-color: #0c5681a8;
+  color: white;
+  text-align: center;
+  height: 200px;
+  padding-left: 120px;
+  padding-right: 120px;
+  margin-bottom: 60px;
+  padding-top: 20px;
+}
+.intro hr{
+  align-items: center;
+  width: 100px;
+}
+.book{
+  margin-left: 120px;
+}
+.search input{
+  width:1100px;
+  height: 20px;
+  background-color: rgb(245, 240, 170);
+  border: none;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+.row1{
+  display: flex;
+  flex-direction: row;
+}
+.Card1{
+  padding: 10px;
+  margin-right: 50px;
+  margin-top: 50px;
+  width: 315.33px;
+  height: 200px;
+  border: solid 0.00002px gray;
+  border-radius: 10px;
+}
+.Card1 img{
+  width: 315.33px;
+  height: 120px;
+}
+.heading{
+  display: flex;
+  flex-direction: row;
+}
+.heading button{
+  height: 20px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right:10px;
+}
+h6{
+  margin: 0;
+}
+.foot{
+  display: flex;
+  flex-direction: row;
+  background-color: #0c5681a8;
+  color: white;
+  margin-top: 60px;
+}
+.foot1{
+  display: flex;
+  flex-direction: row;
+  margin-left: 120px;
+}
+.foot2{
+  display: flex;
+  flex-direction: column;
+  margin-left: 120px;
+
+}
+.foot3{
+  margin-left: 200px;
+}
+.foot li{
+  list-style: none;
+}
+.foot ul{
+  padding-left: 0;
+}
+.foot2 button{
+  background-color: white;
+  border-radius: 2px;
+  height: 30px;
+  margin-top: 10px;
+}
+.contact{
+  margin-left: 70px;
+  width: 120px
+}
+button{
+  border: orange;
+  background-color: rgb(247, 202, 55);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.letter input{
+  width: 110px;
+  margin-right: 15px;
+}
+.foot3 li{
+  line-height: 30px;
+}
